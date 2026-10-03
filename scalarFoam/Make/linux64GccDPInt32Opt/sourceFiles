@@ -1,0 +1,4 @@
+SOURCE = \
+scalarFoam.C \
+
+# sources

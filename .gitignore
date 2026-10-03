@@ -1,0 +1,10 @@
+# OpenFOAM compilation files
+Make/linux64*
+*.o
+*.dep
+
+# OpenFOAM simulation time directories (except 0)
+scalarCavity/[0-9]*.*
+scalarCavity/[1-9]*
+scalarCavity/log.*
+*.foam
